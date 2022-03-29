@@ -1,17 +1,9 @@
 ---
 layout: page
-title: About
+title: 关于叶落
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
+#### 这是叶落的第2个静态博客，第一个Hexo在建立2个多小时后宣告失败，一怒之下删库了事。
+   我不是程序猿，恰恰相反，我是做体力劳动的，喜欢折腾没有了解的东西，申请各种免费空间，测试各种自认为有趣的东西，偶然搜索发现了这种静态博客，空间免费，可以绑定域名，正符合我的要求，所以就搜索教程一步一步安装学习。
+#### 联系方式：QQ 7865223，网址：[叶落的博客](https://yeluo.net "动态博客")
